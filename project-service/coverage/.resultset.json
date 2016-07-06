@@ -1,0 +1,51 @@
+{
+  "RSpec": {
+    "coverage": {
+      "/home/lijian/project-service/lib/init.rb": [
+        1,
+        1,
+        1,
+        1
+      ],
+      "/home/lijian/project-service/api/api.rb": [
+        1,
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null
+      ],
+      "/home/lijian/project-service/spec/spi_spec.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        1,
+        2,
+        null,
+        null,
+        1,
+        1,
+        2,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        null,
+        null,
+        1,
+        0,
+        null
+      ]
+    },
+    "timestamp": 1467776102
+  }
+}
